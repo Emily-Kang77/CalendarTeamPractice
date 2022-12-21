@@ -1,5 +1,5 @@
 
-const Calendar = require('@toast-ui/calendar/dist/toastui-calendar.js');
+const Calendar = require('./dist/tui-calendar.js');
 //require('./node_modules/@toast-ui/calendar/dist/toastui-calendar.css');
 
 let container = document.getElementById('calendar');

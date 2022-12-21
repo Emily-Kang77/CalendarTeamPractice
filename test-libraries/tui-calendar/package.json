@@ -1,0 +1,20 @@
+{
+  "name": "tuicalendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@toast-ui/calendar": "^2.1.3",
+    "browserify": "^17.0.0",
+    "node": "^19.3.0",
+    "requirejs": "^2.3.6",
+    "tui-code-snippet": "^2.3.3"
+  }
+}
